@@ -1,0 +1,15 @@
+D:\exam\MdJakiulRashidKhan\Assignment-1\Wrong Subtraction\bin\Debug\net7.0\Wrong Subtraction.exe
+D:\exam\MdJakiulRashidKhan\Assignment-1\Wrong Subtraction\bin\Debug\net7.0\Wrong Subtraction.deps.json
+D:\exam\MdJakiulRashidKhan\Assignment-1\Wrong Subtraction\bin\Debug\net7.0\Wrong Subtraction.runtimeconfig.json
+D:\exam\MdJakiulRashidKhan\Assignment-1\Wrong Subtraction\bin\Debug\net7.0\Wrong Subtraction.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\Wrong Subtraction\bin\Debug\net7.0\Wrong Subtraction.pdb
+D:\exam\MdJakiulRashidKhan\Assignment-1\Wrong Subtraction\obj\Debug\net7.0\Wrong Subtraction.csproj.AssemblyReference.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\Wrong Subtraction\obj\Debug\net7.0\Wrong Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\exam\MdJakiulRashidKhan\Assignment-1\Wrong Subtraction\obj\Debug\net7.0\Wrong Subtraction.AssemblyInfoInputs.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\Wrong Subtraction\obj\Debug\net7.0\Wrong Subtraction.AssemblyInfo.cs
+D:\exam\MdJakiulRashidKhan\Assignment-1\Wrong Subtraction\obj\Debug\net7.0\Wrong Subtraction.csproj.CoreCompileInputs.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\Wrong Subtraction\obj\Debug\net7.0\Wrong Subtraction.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\Wrong Subtraction\obj\Debug\net7.0\refint\Wrong Subtraction.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\Wrong Subtraction\obj\Debug\net7.0\Wrong Subtraction.pdb
+D:\exam\MdJakiulRashidKhan\Assignment-1\Wrong Subtraction\obj\Debug\net7.0\Wrong Subtraction.genruntimeconfig.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\Wrong Subtraction\obj\Debug\net7.0\ref\Wrong Subtraction.dll

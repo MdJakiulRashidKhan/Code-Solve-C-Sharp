@@ -1,0 +1,15 @@
+D:\exam\MdJakiulRashidKhan\Assignment-1\Word\bin\Debug\net7.0\Word.exe
+D:\exam\MdJakiulRashidKhan\Assignment-1\Word\bin\Debug\net7.0\Word.deps.json
+D:\exam\MdJakiulRashidKhan\Assignment-1\Word\bin\Debug\net7.0\Word.runtimeconfig.json
+D:\exam\MdJakiulRashidKhan\Assignment-1\Word\bin\Debug\net7.0\Word.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\Word\bin\Debug\net7.0\Word.pdb
+D:\exam\MdJakiulRashidKhan\Assignment-1\Word\obj\Debug\net7.0\Word.csproj.AssemblyReference.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\Word\obj\Debug\net7.0\Word.GeneratedMSBuildEditorConfig.editorconfig
+D:\exam\MdJakiulRashidKhan\Assignment-1\Word\obj\Debug\net7.0\Word.AssemblyInfoInputs.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\Word\obj\Debug\net7.0\Word.AssemblyInfo.cs
+D:\exam\MdJakiulRashidKhan\Assignment-1\Word\obj\Debug\net7.0\Word.csproj.CoreCompileInputs.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\Word\obj\Debug\net7.0\Word.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\Word\obj\Debug\net7.0\refint\Word.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\Word\obj\Debug\net7.0\Word.pdb
+D:\exam\MdJakiulRashidKhan\Assignment-1\Word\obj\Debug\net7.0\Word.genruntimeconfig.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\Word\obj\Debug\net7.0\ref\Word.dll

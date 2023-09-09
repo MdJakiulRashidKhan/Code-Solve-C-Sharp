@@ -1,0 +1,15 @@
+D:\exam\MdJakiulRashidKhan\Assignment-1\StringTask\bin\Debug\net7.0\StringTask.exe
+D:\exam\MdJakiulRashidKhan\Assignment-1\StringTask\bin\Debug\net7.0\StringTask.deps.json
+D:\exam\MdJakiulRashidKhan\Assignment-1\StringTask\bin\Debug\net7.0\StringTask.runtimeconfig.json
+D:\exam\MdJakiulRashidKhan\Assignment-1\StringTask\bin\Debug\net7.0\StringTask.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\StringTask\bin\Debug\net7.0\StringTask.pdb
+D:\exam\MdJakiulRashidKhan\Assignment-1\StringTask\obj\Debug\net7.0\StringTask.csproj.AssemblyReference.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\StringTask\obj\Debug\net7.0\StringTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\exam\MdJakiulRashidKhan\Assignment-1\StringTask\obj\Debug\net7.0\StringTask.AssemblyInfoInputs.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\StringTask\obj\Debug\net7.0\StringTask.AssemblyInfo.cs
+D:\exam\MdJakiulRashidKhan\Assignment-1\StringTask\obj\Debug\net7.0\StringTask.csproj.CoreCompileInputs.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\StringTask\obj\Debug\net7.0\StringTask.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\StringTask\obj\Debug\net7.0\refint\StringTask.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\StringTask\obj\Debug\net7.0\StringTask.pdb
+D:\exam\MdJakiulRashidKhan\Assignment-1\StringTask\obj\Debug\net7.0\StringTask.genruntimeconfig.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\StringTask\obj\Debug\net7.0\ref\StringTask.dll

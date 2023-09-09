@@ -1,0 +1,15 @@
+D:\exam\MdJakiulRashidKhan\Assignment-1\Elephant\bin\Debug\net7.0\Elephant.exe
+D:\exam\MdJakiulRashidKhan\Assignment-1\Elephant\bin\Debug\net7.0\Elephant.deps.json
+D:\exam\MdJakiulRashidKhan\Assignment-1\Elephant\bin\Debug\net7.0\Elephant.runtimeconfig.json
+D:\exam\MdJakiulRashidKhan\Assignment-1\Elephant\bin\Debug\net7.0\Elephant.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\Elephant\bin\Debug\net7.0\Elephant.pdb
+D:\exam\MdJakiulRashidKhan\Assignment-1\Elephant\obj\Debug\net7.0\Elephant.csproj.AssemblyReference.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\Elephant\obj\Debug\net7.0\Elephant.GeneratedMSBuildEditorConfig.editorconfig
+D:\exam\MdJakiulRashidKhan\Assignment-1\Elephant\obj\Debug\net7.0\Elephant.AssemblyInfoInputs.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\Elephant\obj\Debug\net7.0\Elephant.AssemblyInfo.cs
+D:\exam\MdJakiulRashidKhan\Assignment-1\Elephant\obj\Debug\net7.0\Elephant.csproj.CoreCompileInputs.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\Elephant\obj\Debug\net7.0\Elephant.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\Elephant\obj\Debug\net7.0\refint\Elephant.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\Elephant\obj\Debug\net7.0\Elephant.pdb
+D:\exam\MdJakiulRashidKhan\Assignment-1\Elephant\obj\Debug\net7.0\Elephant.genruntimeconfig.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\Elephant\obj\Debug\net7.0\ref\Elephant.dll

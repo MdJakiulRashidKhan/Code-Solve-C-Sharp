@@ -1,0 +1,15 @@
+D:\exam\MdJakiulRashidKhan\Assignment-1\WayTooLongWords\bin\Debug\net7.0\WayTooLongWords.exe
+D:\exam\MdJakiulRashidKhan\Assignment-1\WayTooLongWords\bin\Debug\net7.0\WayTooLongWords.deps.json
+D:\exam\MdJakiulRashidKhan\Assignment-1\WayTooLongWords\bin\Debug\net7.0\WayTooLongWords.runtimeconfig.json
+D:\exam\MdJakiulRashidKhan\Assignment-1\WayTooLongWords\bin\Debug\net7.0\WayTooLongWords.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\WayTooLongWords\bin\Debug\net7.0\WayTooLongWords.pdb
+D:\exam\MdJakiulRashidKhan\Assignment-1\WayTooLongWords\obj\Debug\net7.0\WayTooLongWords.csproj.AssemblyReference.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\WayTooLongWords\obj\Debug\net7.0\WayTooLongWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\exam\MdJakiulRashidKhan\Assignment-1\WayTooLongWords\obj\Debug\net7.0\WayTooLongWords.AssemblyInfoInputs.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\WayTooLongWords\obj\Debug\net7.0\WayTooLongWords.AssemblyInfo.cs
+D:\exam\MdJakiulRashidKhan\Assignment-1\WayTooLongWords\obj\Debug\net7.0\WayTooLongWords.csproj.CoreCompileInputs.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\WayTooLongWords\obj\Debug\net7.0\WayTooLongWords.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\WayTooLongWords\obj\Debug\net7.0\refint\WayTooLongWords.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\WayTooLongWords\obj\Debug\net7.0\WayTooLongWords.pdb
+D:\exam\MdJakiulRashidKhan\Assignment-1\WayTooLongWords\obj\Debug\net7.0\WayTooLongWords.genruntimeconfig.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\WayTooLongWords\obj\Debug\net7.0\ref\WayTooLongWords.dll

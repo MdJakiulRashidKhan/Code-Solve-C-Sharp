@@ -1,0 +1,15 @@
+D:\exam\MdJakiulRashidKhan\Assignment-1\Football\bin\Debug\net7.0\Football.exe
+D:\exam\MdJakiulRashidKhan\Assignment-1\Football\bin\Debug\net7.0\Football.deps.json
+D:\exam\MdJakiulRashidKhan\Assignment-1\Football\bin\Debug\net7.0\Football.runtimeconfig.json
+D:\exam\MdJakiulRashidKhan\Assignment-1\Football\bin\Debug\net7.0\Football.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\Football\bin\Debug\net7.0\Football.pdb
+D:\exam\MdJakiulRashidKhan\Assignment-1\Football\obj\Debug\net7.0\Football.csproj.AssemblyReference.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\Football\obj\Debug\net7.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+D:\exam\MdJakiulRashidKhan\Assignment-1\Football\obj\Debug\net7.0\Football.AssemblyInfoInputs.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\Football\obj\Debug\net7.0\Football.AssemblyInfo.cs
+D:\exam\MdJakiulRashidKhan\Assignment-1\Football\obj\Debug\net7.0\Football.csproj.CoreCompileInputs.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\Football\obj\Debug\net7.0\Football.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\Football\obj\Debug\net7.0\refint\Football.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\Football\obj\Debug\net7.0\Football.pdb
+D:\exam\MdJakiulRashidKhan\Assignment-1\Football\obj\Debug\net7.0\Football.genruntimeconfig.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\Football\obj\Debug\net7.0\ref\Football.dll

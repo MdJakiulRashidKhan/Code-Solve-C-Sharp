@@ -1,0 +1,15 @@
+D:\exam\MdJakiulRashidKhan\Assignment-1\BoyOrGirl\bin\Debug\net7.0\BoyOrGirl.exe
+D:\exam\MdJakiulRashidKhan\Assignment-1\BoyOrGirl\bin\Debug\net7.0\BoyOrGirl.deps.json
+D:\exam\MdJakiulRashidKhan\Assignment-1\BoyOrGirl\bin\Debug\net7.0\BoyOrGirl.runtimeconfig.json
+D:\exam\MdJakiulRashidKhan\Assignment-1\BoyOrGirl\bin\Debug\net7.0\BoyOrGirl.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\BoyOrGirl\bin\Debug\net7.0\BoyOrGirl.pdb
+D:\exam\MdJakiulRashidKhan\Assignment-1\BoyOrGirl\obj\Debug\net7.0\BoyOrGirl.csproj.AssemblyReference.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\BoyOrGirl\obj\Debug\net7.0\BoyOrGirl.GeneratedMSBuildEditorConfig.editorconfig
+D:\exam\MdJakiulRashidKhan\Assignment-1\BoyOrGirl\obj\Debug\net7.0\BoyOrGirl.AssemblyInfoInputs.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\BoyOrGirl\obj\Debug\net7.0\BoyOrGirl.AssemblyInfo.cs
+D:\exam\MdJakiulRashidKhan\Assignment-1\BoyOrGirl\obj\Debug\net7.0\BoyOrGirl.csproj.CoreCompileInputs.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\BoyOrGirl\obj\Debug\net7.0\BoyOrGirl.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\BoyOrGirl\obj\Debug\net7.0\refint\BoyOrGirl.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\BoyOrGirl\obj\Debug\net7.0\BoyOrGirl.pdb
+D:\exam\MdJakiulRashidKhan\Assignment-1\BoyOrGirl\obj\Debug\net7.0\BoyOrGirl.genruntimeconfig.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\BoyOrGirl\obj\Debug\net7.0\ref\BoyOrGirl.dll

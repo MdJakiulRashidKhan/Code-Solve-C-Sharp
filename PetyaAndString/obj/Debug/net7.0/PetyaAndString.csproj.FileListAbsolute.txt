@@ -1,0 +1,15 @@
+D:\exam\MdJakiulRashidKhan\Assignment-1\PetyaAndString\bin\Debug\net7.0\PetyaAndString.exe
+D:\exam\MdJakiulRashidKhan\Assignment-1\PetyaAndString\bin\Debug\net7.0\PetyaAndString.deps.json
+D:\exam\MdJakiulRashidKhan\Assignment-1\PetyaAndString\bin\Debug\net7.0\PetyaAndString.runtimeconfig.json
+D:\exam\MdJakiulRashidKhan\Assignment-1\PetyaAndString\bin\Debug\net7.0\PetyaAndString.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\PetyaAndString\bin\Debug\net7.0\PetyaAndString.pdb
+D:\exam\MdJakiulRashidKhan\Assignment-1\PetyaAndString\obj\Debug\net7.0\PetyaAndString.csproj.AssemblyReference.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\PetyaAndString\obj\Debug\net7.0\PetyaAndString.GeneratedMSBuildEditorConfig.editorconfig
+D:\exam\MdJakiulRashidKhan\Assignment-1\PetyaAndString\obj\Debug\net7.0\PetyaAndString.AssemblyInfoInputs.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\PetyaAndString\obj\Debug\net7.0\PetyaAndString.AssemblyInfo.cs
+D:\exam\MdJakiulRashidKhan\Assignment-1\PetyaAndString\obj\Debug\net7.0\PetyaAndString.csproj.CoreCompileInputs.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\PetyaAndString\obj\Debug\net7.0\PetyaAndString.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\PetyaAndString\obj\Debug\net7.0\refint\PetyaAndString.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\PetyaAndString\obj\Debug\net7.0\PetyaAndString.pdb
+D:\exam\MdJakiulRashidKhan\Assignment-1\PetyaAndString\obj\Debug\net7.0\PetyaAndString.genruntimeconfig.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\PetyaAndString\obj\Debug\net7.0\ref\PetyaAndString.dll

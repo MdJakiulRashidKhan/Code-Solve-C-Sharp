@@ -1,0 +1,15 @@
+D:\exam\MdJakiulRashidKhan\Assignment-1\StonesontheTable\bin\Debug\net7.0\StonesontheTable.exe
+D:\exam\MdJakiulRashidKhan\Assignment-1\StonesontheTable\bin\Debug\net7.0\StonesontheTable.deps.json
+D:\exam\MdJakiulRashidKhan\Assignment-1\StonesontheTable\bin\Debug\net7.0\StonesontheTable.runtimeconfig.json
+D:\exam\MdJakiulRashidKhan\Assignment-1\StonesontheTable\bin\Debug\net7.0\StonesontheTable.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\StonesontheTable\bin\Debug\net7.0\StonesontheTable.pdb
+D:\exam\MdJakiulRashidKhan\Assignment-1\StonesontheTable\obj\Debug\net7.0\StonesontheTable.csproj.AssemblyReference.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\StonesontheTable\obj\Debug\net7.0\StonesontheTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\exam\MdJakiulRashidKhan\Assignment-1\StonesontheTable\obj\Debug\net7.0\StonesontheTable.AssemblyInfoInputs.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\StonesontheTable\obj\Debug\net7.0\StonesontheTable.AssemblyInfo.cs
+D:\exam\MdJakiulRashidKhan\Assignment-1\StonesontheTable\obj\Debug\net7.0\StonesontheTable.csproj.CoreCompileInputs.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\StonesontheTable\obj\Debug\net7.0\StonesontheTable.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\StonesontheTable\obj\Debug\net7.0\refint\StonesontheTable.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\StonesontheTable\obj\Debug\net7.0\StonesontheTable.pdb
+D:\exam\MdJakiulRashidKhan\Assignment-1\StonesontheTable\obj\Debug\net7.0\StonesontheTable.genruntimeconfig.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\StonesontheTable\obj\Debug\net7.0\ref\StonesontheTable.dll

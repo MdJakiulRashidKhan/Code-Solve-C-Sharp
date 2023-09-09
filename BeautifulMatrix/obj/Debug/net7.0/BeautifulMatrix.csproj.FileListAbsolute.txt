@@ -1,0 +1,15 @@
+D:\exam\MdJakiulRashidKhan\Assignment-1\BeautifulMatrix\obj\Debug\net7.0\BeautifulMatrix.csproj.AssemblyReference.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\BeautifulMatrix\obj\Debug\net7.0\BeautifulMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\exam\MdJakiulRashidKhan\Assignment-1\BeautifulMatrix\obj\Debug\net7.0\BeautifulMatrix.AssemblyInfoInputs.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\BeautifulMatrix\obj\Debug\net7.0\BeautifulMatrix.AssemblyInfo.cs
+D:\exam\MdJakiulRashidKhan\Assignment-1\BeautifulMatrix\obj\Debug\net7.0\BeautifulMatrix.csproj.CoreCompileInputs.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\BeautifulMatrix\bin\Debug\net7.0\BeautifulMatrix.exe
+D:\exam\MdJakiulRashidKhan\Assignment-1\BeautifulMatrix\bin\Debug\net7.0\BeautifulMatrix.deps.json
+D:\exam\MdJakiulRashidKhan\Assignment-1\BeautifulMatrix\bin\Debug\net7.0\BeautifulMatrix.runtimeconfig.json
+D:\exam\MdJakiulRashidKhan\Assignment-1\BeautifulMatrix\bin\Debug\net7.0\BeautifulMatrix.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\BeautifulMatrix\bin\Debug\net7.0\BeautifulMatrix.pdb
+D:\exam\MdJakiulRashidKhan\Assignment-1\BeautifulMatrix\obj\Debug\net7.0\BeautifulMatrix.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\BeautifulMatrix\obj\Debug\net7.0\refint\BeautifulMatrix.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\BeautifulMatrix\obj\Debug\net7.0\BeautifulMatrix.pdb
+D:\exam\MdJakiulRashidKhan\Assignment-1\BeautifulMatrix\obj\Debug\net7.0\BeautifulMatrix.genruntimeconfig.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\BeautifulMatrix\obj\Debug\net7.0\ref\BeautifulMatrix.dll

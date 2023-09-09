@@ -1,0 +1,15 @@
+D:\exam\MdJakiulRashidKhan\Assignment-1\Soldier and Bananas\bin\Debug\net7.0\Soldier and Bananas.exe
+D:\exam\MdJakiulRashidKhan\Assignment-1\Soldier and Bananas\bin\Debug\net7.0\Soldier and Bananas.deps.json
+D:\exam\MdJakiulRashidKhan\Assignment-1\Soldier and Bananas\bin\Debug\net7.0\Soldier and Bananas.runtimeconfig.json
+D:\exam\MdJakiulRashidKhan\Assignment-1\Soldier and Bananas\bin\Debug\net7.0\Soldier and Bananas.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\Soldier and Bananas\bin\Debug\net7.0\Soldier and Bananas.pdb
+D:\exam\MdJakiulRashidKhan\Assignment-1\Soldier and Bananas\obj\Debug\net7.0\Soldier and Bananas.csproj.AssemblyReference.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\Soldier and Bananas\obj\Debug\net7.0\Soldier and Bananas.GeneratedMSBuildEditorConfig.editorconfig
+D:\exam\MdJakiulRashidKhan\Assignment-1\Soldier and Bananas\obj\Debug\net7.0\Soldier and Bananas.AssemblyInfoInputs.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\Soldier and Bananas\obj\Debug\net7.0\Soldier and Bananas.AssemblyInfo.cs
+D:\exam\MdJakiulRashidKhan\Assignment-1\Soldier and Bananas\obj\Debug\net7.0\Soldier and Bananas.csproj.CoreCompileInputs.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\Soldier and Bananas\obj\Debug\net7.0\Soldier and Bananas.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\Soldier and Bananas\obj\Debug\net7.0\refint\Soldier and Bananas.dll
+D:\exam\MdJakiulRashidKhan\Assignment-1\Soldier and Bananas\obj\Debug\net7.0\Soldier and Bananas.pdb
+D:\exam\MdJakiulRashidKhan\Assignment-1\Soldier and Bananas\obj\Debug\net7.0\Soldier and Bananas.genruntimeconfig.cache
+D:\exam\MdJakiulRashidKhan\Assignment-1\Soldier and Bananas\obj\Debug\net7.0\ref\Soldier and Bananas.dll
